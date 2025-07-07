@@ -1,0 +1,5 @@
+[project]
+name = "dvclive"
+version = "0.1.0"
+description = "📈 Log and track ML metrics, parameters, models with Git and/or DVC"
+requires-python = ">=3.10"
